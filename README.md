@@ -3,7 +3,8 @@
 This repository contains my latest resume.
 
 ## Resume
-📄 [View Resume](./Dharineesh_V_Resume.pdf)
+📄 [View Resume] 
+
 
 ## Profiles
 - GitHub: https://github.com/DHARINEESH2008
