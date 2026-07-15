@@ -1,9 +1,4 @@
-# Dharineesh V - Resume
-
-This repository contains my latest resume.
-
-## Resume
-📄 [View Resume](./Dharineesh_V_Resume.pdf)
+# Dharineesh V 
 
 ## Profiles
 - GitHub: https://github.com/DHARINEESH2008
